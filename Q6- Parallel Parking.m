@@ -1,5 +1,5 @@
-clc
-clear
+clc;
+clear;
 % Parallel parking
 e = 0.5;  % Assume any small time 
 q0 = [0 0 0]; % Initial robot pose
